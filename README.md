@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IphixLi
-- 👀 I am interested in Data science and algorithms.
+- 👀 I am interested in Data science.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web design
 - 📫 you can reach me on my freecodecamp account @iphixli and instagram @bera_iphix
