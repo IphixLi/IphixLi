@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @IphixLi
-- 🌱 I’m currently learning Web development.
+- BS in Computer science, Alma mater: Northwestern University
+- 🌱 I’m currently learning SwiftUI and C#.
 
 <!---
 IphixLi/IphixLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
